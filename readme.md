@@ -36,8 +36,8 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="video">Video</a>
-  <a href="About">About</a>
+  <a class="active" href="/">Home</a>
+  <a href="video">Video</a>
 </div>
 
 <div style="padding-left:16px">
