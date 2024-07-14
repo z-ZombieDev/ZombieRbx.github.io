@@ -36,8 +36,8 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="#Video">Video</a>
-  <a href="#about">About</a>
+  <a class="active" href="Video">Video</a>
+  <a href="about">About</a>
 </div>
 
 <div style="padding-left:16px">
@@ -53,6 +53,6 @@ body {
 </head>
 <body>
     <p>Welcome to ZombieRBX Website!<p>
-        <!DOCTYPE html>
+        
 <html>
 <head>
