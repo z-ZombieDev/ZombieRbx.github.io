@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
