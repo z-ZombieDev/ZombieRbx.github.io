@@ -41,7 +41,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Top Navigation Example</h2>
+  <h2>Top Navigation</h2>
   <p>Some content..</p>
 </div>
 
