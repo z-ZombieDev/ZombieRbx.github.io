@@ -1,5 +1,4 @@
 <html>
-  <link rel="shortcut icon" type="image/png" href="/favicon.png">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -49,6 +48,7 @@ body {
 </html>
 <html lang="en">
 <head>
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
     <title>Welcome Page</title>
 </head>
 <body>
